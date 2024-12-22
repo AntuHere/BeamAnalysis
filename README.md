@@ -1,4 +1,4 @@
-# 🔧 Structural Engineering in Action: Bending Moment Analysis (Version 1) 🔧
+# 🔧 Structural Engineering in Action: Beam Analysis (Version 1) 🔧
 
 Understanding the behavior of beams under loads is essential for safe and efficient structural design. In this analysis, I visualized the **bending moment diagram** for a beam subjected to point loads and a uniformly distributed load (UDL).
 
